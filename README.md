@@ -8,7 +8,19 @@ Slack provides a state of the art chat system, with nice management features and
 
 ## Requirements
 
- - A WebUI for every feature.
- - Centralised user management (LDAP)
- - Message Archiving
+ - Conferences & Direct Messaging
+ - Unlimited Scrollback, to read old Messages
+ - Reading Chat Archives of previously unvisited Chats
+ - File Transfer
+ - Preview for Links (Like Facebook)
+ - Android or iOS Apps?
 
+## Components
+
+ - Chat: Prosody  
+ - Archive & Search: Elastic Search  
+ - Usermanagement: OpenLDAP  
+
+## Todo
+
+ - Write this spec.
